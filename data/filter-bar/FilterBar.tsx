@@ -1,7 +1,7 @@
 "use client";
-import Badge from "@voltui/uikit/badge";
-import Button from "@voltui/uikit/button";
-import { cn } from "@voltui/uikit";
+import Badge from "@mdigitalcn/uikit/badge";
+import Button from "@mdigitalcn/uikit/button";
+import { cn } from "@mdigitalcn/uikit";
 import type { FilterBarProps } from "./FilterBar.types";
 
 export default function FilterBar({ filters, onChange, onClear, className }: FilterBarProps) {

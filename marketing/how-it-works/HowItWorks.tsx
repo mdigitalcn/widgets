@@ -1,5 +1,5 @@
 "use client";
-import { cn } from "@voltui/uikit";
+import { cn } from "@mdigitalcn/uikit";
 import type { HowItWorksProps } from "./HowItWorks.types";
 
 export default function HowItWorks({ steps, title, subtitle, className }: HowItWorksProps) {

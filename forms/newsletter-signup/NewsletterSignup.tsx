@@ -1,9 +1,9 @@
 "use client";
 
 import { useState } from "react";
-import Input from "@voltui/uikit/input";
-import Button from "@voltui/uikit/button";
-import { cn } from "@voltui/uikit";
+import Input from "@mdigitalcn/uikit/input";
+import Button from "@mdigitalcn/uikit/button";
+import { cn } from "@mdigitalcn/uikit";
 import type { NewsletterSignupProps } from "./NewsletterSignup.types";
 
 export default function NewsletterSignup({ onSubmit, title = "Stay updated", description, buttonText = "Subscribe", loading, className }: NewsletterSignupProps) {

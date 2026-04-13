@@ -1,8 +1,8 @@
 "use client";
 
 import { useMemo } from "react";
-import Card, { CardContent, CardHeader, CardTitle, CardDescription } from "@voltui/uikit/card";
-import { cn } from "@voltui/uikit";
+import Card, { CardContent, CardHeader, CardTitle, CardDescription } from "@mdigitalcn/uikit/card";
+import { cn } from "@mdigitalcn/uikit";
 import type { ChartCardProps } from "./ChartCard.types";
 
 export default function ChartCard({ title, description, data, type = "bar", color = "var(--color-primary)", height = 200, actions, className }: ChartCardProps) {

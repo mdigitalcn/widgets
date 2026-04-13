@@ -1,8 +1,8 @@
 "use client";
-import Card, { CardContent } from "@voltui/uikit/card";
-import Badge from "@voltui/uikit/badge";
-import Divider from "@voltui/uikit/divider";
-import { cn } from "@voltui/uikit";
+import Card, { CardContent } from "@mdigitalcn/uikit/card";
+import Badge from "@mdigitalcn/uikit/badge";
+import Divider from "@mdigitalcn/uikit/divider";
+import { cn } from "@mdigitalcn/uikit";
 import type { InvoicePreviewProps } from "./InvoicePreview.types";
 
 export default function InvoicePreview({ invoice, className }: InvoicePreviewProps) {

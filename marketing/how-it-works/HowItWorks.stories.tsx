@@ -37,7 +37,7 @@ export const NoHeader: Story = {
   args: {
     steps: [
       { title: "Browse", description: "Explore our catalog of widgets." },
-      { title: "Add", description: "Install with the voltui CLI." },
+      { title: "Add", description: "Install with the mdigitalcn CLI." },
       { title: "Customize", description: "Make it yours with design tokens." },
     ],
   },

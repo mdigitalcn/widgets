@@ -1,9 +1,9 @@
 "use client";
 
-import Card, { CardContent, CardHeader, CardTitle } from "@voltui/uikit/card";
-import Progress from "@voltui/uikit/progress";
-import Badge from "@voltui/uikit/badge";
-import { cn } from "@voltui/uikit";
+import Card, { CardContent, CardHeader, CardTitle } from "@mdigitalcn/uikit/card";
+import Progress from "@mdigitalcn/uikit/progress";
+import Badge from "@mdigitalcn/uikit/badge";
+import { cn } from "@mdigitalcn/uikit";
 import type { MetricComparisonProps } from "./MetricComparison.types";
 
 export default function MetricComparison({ title, current, previous, format = (v) => v.toLocaleString(), className }: MetricComparisonProps) {

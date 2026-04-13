@@ -1,9 +1,9 @@
 "use client";
-import Card, { CardContent } from "@voltui/uikit/card";
-import Avatar from "@voltui/uikit/avatar";
-import Badge from "@voltui/uikit/badge";
-import Button from "@voltui/uikit/button";
-import { cn } from "@voltui/uikit";
+import Card, { CardContent } from "@mdigitalcn/uikit/card";
+import Avatar from "@mdigitalcn/uikit/avatar";
+import Badge from "@mdigitalcn/uikit/badge";
+import Button from "@mdigitalcn/uikit/button";
+import { cn } from "@mdigitalcn/uikit";
 import type { EmployeeCardProps } from "./EmployeeCard.types";
 
 export default function EmployeeCard({ employee, onEdit, onMessage, compact, className }: EmployeeCardProps) {

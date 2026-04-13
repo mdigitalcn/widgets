@@ -1,8 +1,8 @@
 "use client";
-import Card, { CardContent } from "@voltui/uikit/card";
-import Badge from "@voltui/uikit/badge";
-import Button from "@voltui/uikit/button";
-import { cn } from "@voltui/uikit";
+import Card, { CardContent } from "@mdigitalcn/uikit/card";
+import Badge from "@mdigitalcn/uikit/badge";
+import Button from "@mdigitalcn/uikit/button";
+import { cn } from "@mdigitalcn/uikit";
 import type { AttendanceStatusProps } from "./AttendanceStatus.types";
 
 export default function AttendanceStatus({ status, clockInTime, todayHours, onClockIn, onClockOut, onBreak, className }: AttendanceStatusProps) {

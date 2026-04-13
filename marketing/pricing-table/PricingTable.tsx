@@ -1,9 +1,9 @@
 "use client";
-import Card, { CardContent, CardHeader, CardTitle, CardDescription } from "@voltui/uikit/card";
-import Button from "@voltui/uikit/button";
-import Badge from "@voltui/uikit/badge";
-import Divider from "@voltui/uikit/divider";
-import { cn } from "@voltui/uikit";
+import Card, { CardContent, CardHeader, CardTitle, CardDescription } from "@mdigitalcn/uikit/card";
+import Button from "@mdigitalcn/uikit/button";
+import Badge from "@mdigitalcn/uikit/badge";
+import Divider from "@mdigitalcn/uikit/divider";
+import { cn } from "@mdigitalcn/uikit";
 import type { PricingTableProps } from "./PricingTable.types";
 
 export default function PricingTable({ plans, onSelect, className }: PricingTableProps) {

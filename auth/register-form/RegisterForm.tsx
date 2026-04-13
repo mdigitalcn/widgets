@@ -3,13 +3,13 @@
 import { useForm, Controller } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
-import Card, { CardContent } from "@voltui/uikit/card";
-import Input from "@voltui/uikit/input";
-import InputPassword from "@voltui/uikit/input-password";
-import Button from "@voltui/uikit/button";
-import Link from "@voltui/uikit/link";
-import Notification from "@voltui/uikit/notification";
-import { cn } from "@voltui/uikit";
+import Card, { CardContent } from "@mdigitalcn/uikit/card";
+import Input from "@mdigitalcn/uikit/input";
+import InputPassword from "@mdigitalcn/uikit/input-password";
+import Button from "@mdigitalcn/uikit/button";
+import Link from "@mdigitalcn/uikit/link";
+import Notification from "@mdigitalcn/uikit/notification";
+import { cn } from "@mdigitalcn/uikit";
 import type { RegisterFormProps } from "./RegisterForm.types";
 
 const schema = z.object({ name: z.string().min(2), email: z.string().email(), password: z.string().min(8), confirmPassword: z.string() }).refine((d) => d.password === d.confirmPassword, { message: "Passwords don't match", path: ["confirmPassword"] });

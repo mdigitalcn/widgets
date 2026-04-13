@@ -1,9 +1,9 @@
 "use client";
-import Card, { CardContent } from "@voltui/uikit/card";
-import Badge from "@voltui/uikit/badge";
-import Button from "@voltui/uikit/button";
-import Rating from "@voltui/uikit/rating";
-import { cn } from "@voltui/uikit";
+import Card, { CardContent } from "@mdigitalcn/uikit/card";
+import Badge from "@mdigitalcn/uikit/badge";
+import Button from "@mdigitalcn/uikit/button";
+import Rating from "@mdigitalcn/uikit/rating";
+import { cn } from "@mdigitalcn/uikit";
 import type { SupplierCardProps } from "./SupplierCard.types";
 
 export default function SupplierCard({ supplier, onEdit, onContact, className }: SupplierCardProps) {

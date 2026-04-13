@@ -1,7 +1,7 @@
 "use client";
-import Link from "@voltui/uikit/link";
-import Button from "@voltui/uikit/button";
-import { cn } from "@voltui/uikit";
+import Link from "@mdigitalcn/uikit/link";
+import Button from "@mdigitalcn/uikit/button";
+import { cn } from "@mdigitalcn/uikit";
 import type { AnnouncementBarProps } from "./AnnouncementBar.types";
 
 const variantClasses: Record<string, string> = {

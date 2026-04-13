@@ -21,7 +21,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0",
+        "@mdigitalcn/uikit": ">=1.0.0",
         "react-hook-form": "*",
         "@hookform/resolvers": "*",
         "zod": "*"
@@ -46,7 +46,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0",
+        "@mdigitalcn/uikit": ">=1.0.0",
         "react-hook-form": "*",
         "@hookform/resolvers": "*",
         "zod": "*"
@@ -71,7 +71,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -93,7 +93,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0",
+        "@mdigitalcn/uikit": ">=1.0.0",
         "react-hook-form": "*",
         "@hookform/resolvers": "*",
         "zod": "*"
@@ -118,7 +118,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -140,7 +140,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -163,7 +163,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -186,7 +186,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -208,7 +208,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -230,7 +230,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -252,7 +252,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -274,7 +274,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -296,7 +296,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -318,7 +318,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -340,7 +340,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -362,7 +362,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -384,7 +384,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -406,7 +406,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -428,7 +428,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -451,7 +451,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -473,7 +473,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -495,7 +495,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0",
+        "@mdigitalcn/uikit": ">=1.0.0",
         "react-hook-form": "*",
         "@hookform/resolvers": "*",
         "zod": "*"
@@ -521,7 +521,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -544,7 +544,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -566,7 +566,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -588,7 +588,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -610,7 +610,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -633,7 +633,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -655,7 +655,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -677,7 +677,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -700,7 +700,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -722,7 +722,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -744,7 +744,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -766,7 +766,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -788,7 +788,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -810,7 +810,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -832,7 +832,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -854,7 +854,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -877,7 +877,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -899,7 +899,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -922,7 +922,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -945,7 +945,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -967,7 +967,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -989,7 +989,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -1011,7 +1011,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -1034,7 +1034,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     },
     {
@@ -1057,7 +1057,7 @@
       ],
       "dependencies": [],
       "peerDependencies": {
-        "@voltui/uikit": ">=1.0.0"
+        "@mdigitalcn/uikit": ">=1.0.0"
       }
     }
   ]

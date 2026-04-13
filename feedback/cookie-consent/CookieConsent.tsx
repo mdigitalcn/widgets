@@ -1,6 +1,6 @@
 "use client";
-import Button from "@voltui/uikit/button";
-import { cn } from "@voltui/uikit";
+import Button from "@mdigitalcn/uikit/button";
+import { cn } from "@mdigitalcn/uikit";
 import type { CookieConsentProps } from "./CookieConsent.types";
 
 export default function CookieConsent({ onAccept, onReject, onCustomize, message = "We use cookies to improve your experience. By continuing, you agree to our use of cookies.", className }: CookieConsentProps) {

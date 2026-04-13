@@ -1,6 +1,6 @@
 "use client";
-import Card, { CardContent, CardHeader, CardTitle } from "@voltui/uikit/card";
-import { cn } from "@voltui/uikit";
+import Card, { CardContent, CardHeader, CardTitle } from "@mdigitalcn/uikit/card";
+import { cn } from "@mdigitalcn/uikit";
 import type { OrderStatusTrackerProps } from "./OrderStatusTracker.types";
 
 export default function OrderStatusTracker({ orderId, steps, className }: OrderStatusTrackerProps) {

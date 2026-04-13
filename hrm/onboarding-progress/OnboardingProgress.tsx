@@ -1,8 +1,8 @@
 "use client";
-import Card, { CardContent, CardHeader, CardTitle } from "@voltui/uikit/card";
-import Checkbox from "@voltui/uikit/checkbox";
-import Progress from "@voltui/uikit/progress";
-import { cn } from "@voltui/uikit";
+import Card, { CardContent, CardHeader, CardTitle } from "@mdigitalcn/uikit/card";
+import Checkbox from "@mdigitalcn/uikit/checkbox";
+import Progress from "@mdigitalcn/uikit/progress";
+import { cn } from "@mdigitalcn/uikit";
 import type { OnboardingProgressProps } from "./OnboardingProgress.types";
 
 export default function OnboardingProgress({ tasks, employeeName, onToggle, className }: OnboardingProgressProps) {

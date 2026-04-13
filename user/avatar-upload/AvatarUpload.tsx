@@ -1,6 +1,6 @@
 "use client";
-import Avatar from "@voltui/uikit/avatar";
-import { cn } from "@voltui/uikit";
+import Avatar from "@mdigitalcn/uikit/avatar";
+import { cn } from "@mdigitalcn/uikit";
 import type { AvatarUploadProps } from "./AvatarUpload.types";
 
 export default function AvatarUpload({ src, name, size = "xl", onUpload, className }: AvatarUploadProps) {

@@ -1,12 +1,12 @@
 "use client";
 
 import { useState } from "react";
-import Card, { CardContent } from "@voltui/uikit/card";
-import Input from "@voltui/uikit/input";
-import Button from "@voltui/uikit/button";
-import Link from "@voltui/uikit/link";
-import Notification from "@voltui/uikit/notification";
-import { cn } from "@voltui/uikit";
+import Card, { CardContent } from "@mdigitalcn/uikit/card";
+import Input from "@mdigitalcn/uikit/input";
+import Button from "@mdigitalcn/uikit/button";
+import Link from "@mdigitalcn/uikit/link";
+import Notification from "@mdigitalcn/uikit/notification";
+import { cn } from "@mdigitalcn/uikit";
 import type { ForgotPasswordFormProps } from "./ForgotPasswordForm.types";
 
 export default function ForgotPasswordForm({ onSubmit, onBackToLogin, loading, success, error, className }: ForgotPasswordFormProps) {

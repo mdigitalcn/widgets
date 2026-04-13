@@ -1,12 +1,12 @@
 "use client";
 
 import { useState } from "react";
-import Card, { CardContent } from "@voltui/uikit/card";
-import InputOtp from "@voltui/uikit/input-otp";
-import Button from "@voltui/uikit/button";
-import Link from "@voltui/uikit/link";
-import Notification from "@voltui/uikit/notification";
-import { cn } from "@voltui/uikit";
+import Card, { CardContent } from "@mdigitalcn/uikit/card";
+import InputOtp from "@mdigitalcn/uikit/input-otp";
+import Button from "@mdigitalcn/uikit/button";
+import Link from "@mdigitalcn/uikit/link";
+import Notification from "@mdigitalcn/uikit/notification";
+import { cn } from "@mdigitalcn/uikit";
 import type { OtpVerificationProps } from "./OtpVerification.types";
 
 export default function OtpVerification({ onSubmit, onResend, length = 6, maskedContact, loading, error, className }: OtpVerificationProps) {
