@@ -2,9 +2,9 @@ import React from "react";
 import { withThemeByClassName } from "@storybook/addon-themes";
 import type { Preview } from "@storybook/react";
 
-import "../../mdigitalcn_uikit/src/styles/global.css";
-import "../../mdigitalcn_uikit/src/styles/themes/light.css";
-import "../../mdigitalcn_uikit/src/styles/themes/dark.css";
+import "@mdigitalcn/uikit/styles/global.css";
+import "@mdigitalcn/uikit/styles/themes/light.css";
+import "@mdigitalcn/uikit/styles/themes/dark.css";
 
 const preview: Preview = {
   parameters: {
